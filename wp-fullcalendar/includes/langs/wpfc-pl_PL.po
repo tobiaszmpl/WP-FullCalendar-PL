@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP FullCalendar v0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-11 14:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wpfc
+#: wp-fullcalendar.php:307
+msgid "Settings"
+msgstr "Ustawienia"
+
+# @ wpfc
+#: wpfc-admin.php:62
+#, php-format
+msgid ""
+"To use this plugin, simply use the %s shortcode in one of your posts or "
+"pages."
+msgstr ""
+"Aby użyć tej wtyczki, użyj skrótu %s na jednej z podstron lub w poście "
+
+# @ wpfc
+#: wpfc-admin.php:63
+#, php-format
+msgid "You can also do this with PHP and this snippet : %s."
+msgstr "Możesz to również zrobić za pomocą PHP - %s"
+
+# @ wpfc
+#: wpfc-admin.php:66
+msgid "Post Types"
+msgstr "Typ Strony"
+
+# @ wpfc
+#: wpfc-admin.php:67
+msgid ""
+"By default, your calendar will show the types of posts based on settings "
+"below."
+msgstr ""
+"Automatycznie, kalendarz będzie pokazywał typy postów określone poniżej."
+
+# @ wpfc
+#: wpfc-admin.php:69
+#, php-format
+msgid ""
+"You can override these settings by choosing your post type in your shortode "
+"like this %s."
+msgstr "Możesz nadpisać te ustawienia, podmieniając typ postu np. %s"
+
+# @ wpfc
+#: wpfc-admin.php:70
+#, php-format
+msgid "You can override taxonomy search settings as well like this %s."
+msgstr "Możesz nadpisać tak samo wyszukiwanie np. %s"
+
+# @ wpfc
+#: wpfc-admin.php:71
+msgid "In both cases, the values you should use are in (parenteses) below."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:86
+msgid ""
+"Choose which taxonomies you want to see listed as search options on the "
+"calendar."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:109
+msgid "Calendar Options"
+msgstr "Opcje Kalendarza"
+
+# @ wpfc
+#: wpfc-admin.php:113
+msgid "Events limit"
+msgstr "Limit wydarzeń"
+
+# @ wpfc
+#: wpfc-admin.php:113
+msgid ""
+"Enter the maximum number of events to show per day, which will then be "
+"preceded by a link to the calendar day page."
+msgstr ""
+"Ustaw maxymalną liczbę wydarzeń wyświetlaną na dzień, które później zostanie "
+"rozwinięta w linku w kalendarzu"
+
+# @ wpfc
+#: wpfc-admin.php:114
+msgid "View events link"
+msgstr "Zobacz link do wydarzeń"
+
+# @ wpfc
+#: wpfc-admin.php:114
+msgid ""
+"When the limit of events is shown for one day, this text will be used for "
+"the link to the calendar day page."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:117
+msgid "jQuery UI Themeroller"
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:118
+#, php-format
+msgid ""
+"You can select from a set of pre-made CSS themes, which are taken from the "
+"<a href=\"%s\">jQuery Theme Roller</a> gallery. If you roll your own theme, "
+"upload the CSS file and images folder to <code>wp-content/yourtheme/plugins/"
+"wp-fullcalendar/</code> and refresh this page, it should appear an option in "
+"the pull down menu below."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:135
+msgid "jQuery CSS Theme?"
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:138
+msgid "No Theme"
+msgstr "Brak wtyczki"
+
+# @ wpfc
+#: wpfc-admin.php:139
+msgid "Built-In"
+msgstr "Wbudowane"
+
+# @ wpfc
+#: wpfc-admin.php:145
+msgid "Custom"
+msgstr "Własne"
+
+# @ wpfc
+#: wpfc-admin.php:152
+msgid ""
+"You can use the jQuery UI CSS framework to style the calendar, and choose "
+"from a set of themes below."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:156
+msgid "Toolips"
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:157
+msgid ""
+"You can use <a href=\"http://craigsworks.com/projects/qtip2/\">jQuery qTips</"
+"a> to show excerpts of your events within a tooltip when hovering over a "
+"specific event on the calendar. You can control the content shown, "
+"positioning and style of the tool tips below."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:160
+msgid "Enable event tooltips?"
+msgstr "Włączyć toplistę wydarzeń?"
+
+# @ wpfc
+#: wpfc-admin.php:165
+msgid "Tooltip style"
+msgstr "Style tooltipa"
+
+# @ wpfc
+#: wpfc-admin.php:165
+msgid "You can choose from one of these preset styles for your tooltip."
+msgstr "Możesz wybrać jeden z tych styli dla swojego tooltipa"
+
+# @ wpfc
+#: wpfc-admin.php:166
+msgid "Rounded tooltips?"
+msgstr "Zaokrąglić tooltip?"
+
+# @ wpfc
+#: wpfc-admin.php:166
+msgid ""
+"If your chosen tooltip style doesn't already do/prevent this, you can add "
+"rounded corners using CSS3."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:167
+msgid "Add shadow to tooltips?"
+msgstr "Dodać cień do tooltipa?"
+
+# @ wpfc
+#: wpfc-admin.php:167
+msgid ""
+"If your chosen tooltip style doesn't already do/prevent this, you can add a "
+"CSS3 drop-shadow effect to your tooltip."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:172
+msgid "Tooltip pointer position"
+msgstr "Pozycja wskaźnika tooltipa"
+
+# @ wpfc
+#: wpfc-admin.php:172
+msgid "Choose where the pointer will be situated on your tooltip."
+msgstr "Wybierz lokalizację dla wskaźnika na Twojej tooltipa"
+
+# @ wpfc
+#: wpfc-admin.php:173
+msgid "Tooltip bubble position"
+msgstr "Umiejscowienie  tooltipa"
+
+# @ wpfc
+#: wpfc-admin.php:173
+msgid ""
+"Choose where your tooltip will be situated relative to the event link which "
+"triggers the tooltip."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:174
+msgid "Enable featured image?"
+msgstr "Włączyć obrazek funkcjonalny?"
+
+# @ wpfc
+#: wpfc-admin.php:174
+msgid "If your post has a featured image, it will be included as a thumbnail."
+msgstr ""
+
+# @ wpfc
+#: wpfc-admin.php:177
+msgid "Featured image size"
+msgstr "Rozmiar obrazka funkcjonalnego"
+
+# @ wpfc
+#: wpfc-admin.php:179
+msgid "Width"
+msgstr "Szerokość"
+
+# @ wpfc
+#: wpfc-admin.php:180
+msgid "Height"
+msgstr "Wysokość"
+
+# @ wpfc
+#: wpfc-admin.php:185
+msgid "Submit Changes"
+msgstr "Zapisz zmiany"
+
+# @ dbem
+#: wpfc-admin.php:264
+msgid "No"
+msgstr "Nie"
+
+# @ dbem
+#: wpfc-admin.php:264
+msgid "Yes"
+msgstr "Tak"
+
+# @ dbem
+#: wpfc-events-manager.php:54
+#, php-format
+msgid ""
+"If you choose the Event post type whilst Events Manager is activated, you "
+"can also visit the <a href=\"%s\">Events Manager settings page</a> for a few "
+"more options when displaying event information on your calendar."
+msgstr ""
+
+# @ dbem
+#: wpfc-events-manager.php:322
+msgid "Click to toggle"
+msgstr ""
+
+# @ dbem
+#: wpfc-events-manager.php:322
+msgid "Full Calendar Options"
+msgstr "Opcję pełnego kalnedarza"
+
+# @ dbem
+#: wpfc-events-manager.php:324
+#, php-format
+msgid ""
+"Looking for the rest of the FullCalendar Options? They've moved <a href=\"%s"
+"\">here</a>, the options below are for overriding specific bits relevant to "
+"Events Manager."
+msgstr ""
+
+# @ dbem
+#: wpfc-events-manager.php:328
+msgid "Override calendar on events page?"
+msgstr "Nadpisać kalendarz na stronie wydarzenia?"
+
+# @ dbem
+#: wpfc-events-manager.php:328
+msgid ""
+"If set to yes, the FullCalendar will be used instead of the standard "
+"calendar on the events page."
+msgstr ""
+
+# @ dbem
+#: wpfc-events-manager.php:329
+msgid "Override calendar shortcode?"
+msgstr "Nadpisać shortcode kalendarza?"
+
+# @ dbem
+#: wpfc-events-manager.php:329
+msgid ""
+"Overrides the default calendar shortcode. You can also use "
+"[events_fullcalendar] instead."
+msgstr ""
+
+# @ wpfc
+#: wpfc-events-manager.php:330
+msgid "Event title format"
+msgstr "Format tytułu wydarzenia"
+
+# @ wpfc
+#: wpfc-events-manager.php:330
+msgid "HTML is not accepted."
+msgstr "HTML nie jest akceptowany"
+
+# @ wpfc
+#: wpfc-events-manager.php:331
+msgid "Event tooltips format"
+msgstr "Format tooltipa wydarzenia"
+
+# @ wpfc
+#: wpfc-events-manager.php:331
+msgid ""
+"If you enable tips, this information will be shwon, which can include HTML."
+msgstr ""
